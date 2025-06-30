@@ -27,7 +27,7 @@
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url(images/logo.png);
   background-size: cover;
 
   height: 55px;
@@ -305,7 +305,7 @@
 
 .hero-section {
   height: 400px;
-  background-image: url(cover-image-1.jpg);
+  background-image: url(images/cover-image-1.jpg);
   background-size: cover;
 }
 
@@ -340,7 +340,7 @@
 .content-image1 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(pc-image.jpg);
+  background-image: url(images/pc-image.jpg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -348,7 +348,7 @@
 .content-image2 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(home.jpg);
+  background-image: url(images/home.jpg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -356,7 +356,7 @@
 .content-image3 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(clothing.jpg);
+  background-image: url(images/clothing.jpg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -364,7 +364,7 @@
 .content-image4 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(kettle.jpg);
+  background-image: url(images/kettle.jpg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -372,7 +372,7 @@
 .content-image5 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(style.jpg);
+  background-image: url(images/style.jpg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -380,7 +380,7 @@
 .content-image6 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(items.jpg);
+  background-image: url(images/items.jpg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -388,7 +388,7 @@
 .content-image7 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(kitchen.jpeg);
+  background-image: url(images/kitchen.jpeg);
   background-clip: content-box;
   background-size: cover;
 }
@@ -396,7 +396,7 @@
 .content-image8 {
   height: 75%;
   padding: 1.2rem;
-  background-image: url(bear.jpeg);
+  background-image: url(images/bear.jpeg);
   background-clip: content-box;
   background-size: cover;
 }
